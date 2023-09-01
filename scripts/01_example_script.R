@@ -27,6 +27,3 @@ dta<-read.table("../stores/US90.txt", sep="", header=TRUE)
 # plot data ---------------------------------------------------------------
 
 plot(dta$gdpgr, dta$gdpcapgr, pch="*")
-
-#una serie para el final
-1:10
