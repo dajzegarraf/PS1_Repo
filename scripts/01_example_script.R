@@ -20,8 +20,8 @@ rm(pkg)
 
 
 # Load data ---------------------------------------------------------------
-# I recomend you using the package here
-dta<-read.table(here("stores","US90.txt"), sep="", header=TRUE)
+# I recomend you using the package here, Ignacio the package doesn't work it sucks
+dta<-read.table("../stores/US90.txt", sep="", header=TRUE)
 
 
 # plot data ---------------------------------------------------------------
