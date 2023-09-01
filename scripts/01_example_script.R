@@ -30,3 +30,6 @@ plot(dta$gdpgr, dta$gdpcapgr, pch="*")
 
 #una serie para el final
 1:10
+
+# comentario para todos
+1+1
